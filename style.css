@@ -27,7 +27,7 @@ body {
     }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 539px) {
     #big-name {
         display: none;
     }
