@@ -1,5 +1,6 @@
 body {
     -webkit-text-size-adjust: none;
+    overflow-x: hidden;
     display: table;
     border-spacing: 0px 20px;
     width: 100%;
