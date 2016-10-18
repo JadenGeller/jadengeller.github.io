@@ -1,0 +1,22 @@
+body {
+    -webkit-text-size-adjust: none;
+    display: table;
+    width: 100%;
+}
+
+.row {
+    display: table-row;
+    text-align: center;
+}
+
+.cell {
+    display: inline-block;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.freeform {
+    white-space: pre-wrap;
+    max-width: 700px;
+    margin:auto;
+}
