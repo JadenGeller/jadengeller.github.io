@@ -25,13 +25,13 @@ pre {
     margin:auto;
 }
 
-@media (min-width: 540px) {
+@media (min-width: 537px) {
     #small-name {
         display: none;
     }
 }
 
-@media (max-width: 539px) {
+@media (max-width: 536px) {
     #big-name {
         display: none;
     }
