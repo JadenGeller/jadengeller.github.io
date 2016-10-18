@@ -1,7 +1,12 @@
 body {
     -webkit-text-size-adjust: none;
     display: table;
+    border-spacing: 0px 20px;
     width: 100%;
+}
+
+pre {
+    margin: 0px 0px 0px 0px;
 }
 
 .row {
@@ -11,8 +16,7 @@ body {
 
 .cell {
     display: inline-block;
-    margin-left: 6px;
-    margin-right: 6px;
+    margin: 5px 5px 5px 5px;
 }
 
 .freeform {
