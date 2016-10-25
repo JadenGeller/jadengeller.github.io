@@ -28,6 +28,18 @@ pre {
     margin:auto;
 }
 
+.string {
+    color: #DF0002
+}
+
+.keyword {
+    color: #AA0D91
+}
+
+.function {
+    color: #2E0D6E
+}
+
 @media (min-width: 537px) {
     #small-name {
         display: none;
