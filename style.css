@@ -52,3 +52,15 @@ pre {
     }
 }
 
+@media (min-width: 450px) {
+    #compact-code {
+        display: none;
+    }
+}
+
+@media (max-width: 449px) {
+    #wide-code {
+        display: none;
+    }
+}
+
